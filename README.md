@@ -1,6 +1,6 @@
 # Windows on noVNC QEMU with Ngrok & Tailscale
 
-This is my New Project Action Docker to make Windows QEMU noVNC on Action
+This is my New Project Action Docker to make Windows QEMU noVNC on Action.
 
 # Warning
 
